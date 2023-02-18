@@ -1,3 +1,3 @@
 # Classification_Algorithms
 
-Breast Cancer Classification using Ten different Machine Learning Classifiers
+Breast Cancer Classification using Ten different Machine Learning Classifier
